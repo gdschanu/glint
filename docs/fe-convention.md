@@ -668,28 +668,3 @@ const { x, y } = useMouse()
 
 <template>Mouse position is at: {{ x }}, {{ y }}</template>
 ```
-
-## GemPages coding conversions
-
-### Package: web-components
-
-Đây là repo quản lý các script sử dụng trên Shopify
-
-Ví dụ:
-`Product Page 1` sử dụng script `gp-product.js` được bundle bởi file `gp-product.ts` trong web-components
-
-#### Không được sử dụng class tailwindCSS
-
-✅ Do
-
-```ts
-let el = document.querySelector('.abc')
-el.style.display='none'
-```
-
-❌ Don't
-
-```ts
-let el = document.querySelector('.abc')
-el.classList.add('hidden')
-```
