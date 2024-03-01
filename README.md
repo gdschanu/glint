@@ -1,4 +1,7 @@
-# ![](logo.png) GDSC Hanu Code Convention
+<p align="center">
+  <img src="Logo.png" alt="GDSC Hanu Logo" width="100" height="100">
+</p>
+<h1 align="center">GDSC Hanu Code Convention</h1>
 
 Welcome to the GDSC Hanu Code Convention repository! This repository is dedicated to documenting the coding conventions followed by GDSC Hanu. Consistent coding conventions help maintain clean, readable, and maintainable code across projects.
 
