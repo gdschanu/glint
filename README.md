@@ -1,10 +1,10 @@
 <p align="center">
   <img src="Logo.png" alt="GDSC Hanu Logo" width="100" height="100">
 </p>
-<h1 align="center">GDSC Hanu Code Convention</h1>
+<h1 align="center">GDSC HANU Code Convention</h1>
 
 <p align="center">
-  Welcome to the GDSC Hanu Code Convention repository! This repository is dedicated to documenting the coding conventions followed by GDSC Hanu. Consistent coding conventions help maintain clean, readable, and maintainable code across projects.
+  Welcome to the GDSC HANU Code Convention repository! This repository is dedicated to documenting the coding conventions followed by GDSC Hanu. Consistent coding conventions help maintain clean, readable, and maintainable code across projects.
 </p> 
 
 ## Table of Contents
