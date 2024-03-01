@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">GDSC Hanu Code Convention</h1>
 
-Welcome to the GDSC Hanu Code Convention repository! This repository is dedicated to documenting the coding conventions followed by GDSC Hanu. Consistent coding conventions help maintain clean, readable, and maintainable code across projects.
+<p align="center">
+  Welcome to the GDSC Hanu Code Convention repository! This repository is dedicated to documenting the coding conventions followed by GDSC Hanu. Consistent coding conventions help maintain clean, readable, and maintainable code across projects.
+</p> 
 
 ## Table of Contents
 
