@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.png" alt="GDSC Hanu Logo" width="100" height="100">
+  <img width="364" alt="image-removebg-preview" src="https://user-images.githubusercontent.com/71859025/202481056-0d41c8bb-48e4-455f-9a82-f4ddbc4e50a1.png">
 </p>
 <h1 align="center">GDSC HANU Code Convention</h1>
 
