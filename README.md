@@ -1,4 +1,4 @@
-# GDSC Hanu Code Convention
+# ![GDSC Hanu Logo]([https://example.com/gdsc_hanu_logo.png](https://scontent.fhan3-5.fna.fbcdn.net/v/t39.30808-6/322545896_634155595151557_3943550068389317693_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeHGCuN4UkfwpWntJI-Ym2-EzdnIV8odlATN2chXyh2UBDpX0VdmPyIS-4hQhzjq7r0pnzbwFfyl3ztkWr8yl9fc&_nc_ohc=hEYcQddGxu0AX9KcUUq&_nc_zt=23&_nc_ht=scontent.fhan3-5.fna&oh=00_AfCTZi_Zree0xantutJ8P-kC7WPNCu-TD26hNdVWp8iMNQ&oe=65E71BF2)) GDSC Hanu Code Convention
 
 Welcome to the GDSC Hanu Code Convention repository! This repository is dedicated to documenting the coding conventions followed by GDSC Hanu. Consistent coding conventions help maintain clean, readable, and maintainable code across projects.
 
