@@ -33,10 +33,6 @@
     11. [Provide / Inject should not be used](#provide--inject-should-not-be-used)
     12. [Async Components in Vue 3](#async-components-in-vue-3)
     12. [Components & composition](#components--composition)
-4. [GemPages coding conversions](#gempages-coding-conversions)
-    1. [Package: web-components](#package-web-components)
-        1. [Không được sử dụng class tailwindCSS](#không-được-sử-dụng-class-tailwindcss)
-
 ## JS coding conventions
 
 #### 80 characters per line
