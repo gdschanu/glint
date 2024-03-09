@@ -1,16 +1,4 @@
-# @commitlint/config-conventional
-
-Lint your conventional commits
-
-Shareable `commitlint` config enforcing [conventional commits](https://conventionalcommits.org/).
-Use with [@commitlint/cli](https://npm.im/@commitlint/cli) and [@commitlint/prompt-cli](https://npm.im/@commitlint/prompt-cli).
-
-## Getting started
-
-```sh
-npm install --save-dev @commitlint/config-conventional @commitlint/cli
-echo "export default {extends: ['@commitlint/config-conventional']};" > commitlint.config.js
-```
+# Commmit Lint - Commit message you should follow!
 
 ## Rules
 
