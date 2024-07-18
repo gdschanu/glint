@@ -626,7 +626,7 @@ const asyncModalWithOptions = defineAsyncComponent({
 
 #### Components & Composable
 
-All functions, variables, watches should be separated into composition. `Do not write to .vue`
+All functions, variables, watches should be separated into composable. `Do not write to .vue`
 
 ```ts
 // event.js
