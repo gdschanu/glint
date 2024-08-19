@@ -498,6 +498,35 @@ const user: User = reactive({
 
 *Types are **required** when using `ref` and `reactive`*
 
+#### State name casing
+
+State names should always be declared as `camelCase` and should contain 2 or 3 words
+
+
+✅ Do
+
+```ts
+// String and Number
+const myName = ref<string>('Peter')
+const myAge = ref<string>(22)
+
+// Boolean
+const isMale = ref<bollean>(true) // Describe a object
+const hasGirlFriend = ref<bollean>(false) // Describe own
+
+// Array
+const memberList = ref<string[]>(['Peter', 'Nicky', 'Joe']) // Add keyword list
+
+```
+*This rule also applies to **Computed**, **props**, **variable** or **const** *
+❌ Don't
+
+```ts
+props: {
+  'greeting-text': String
+}
+<WelcomeMessage greetingText="hi"/>
+```
 #### Props
 
 ✅ Do
