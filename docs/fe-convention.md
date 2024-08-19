@@ -523,10 +523,17 @@ const memberList = ref<string[]>(['Peter', 'Nicky', 'Joe']) // Add keyword list
 ❌ Don't
 
 ```ts
-props: {
-  'greeting-text': String
-}
-<WelcomeMessage greetingText="hi"/>
+// String and Number
+const name = ref<string>('Peter')
+const age = ref<string>(22)
+
+// Boolean
+const ismale = ref<bollean>(true) // Describe a object
+const girlFriendOfPeterhas = ref<bollean>(false) // Describe own
+
+// Array
+const arrayMember = ref<string[]>(['Peter', 'Nicky', 'Joe']) // Add keyword list
+
 ```
 #### Props
 
