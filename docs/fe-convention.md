@@ -518,7 +518,8 @@ const hasGirlFriend = ref<bollean>(false) // Describe own
 const memberList = ref<string[]>(['Peter', 'Nicky', 'Joe']) // Add keyword list
 
 ```
-*This rule also applies to **Computed**, **props**, **variable** or **const** *
+*This rule also applies to **Computed**, **props**, **variable** or **const** .*
+
 ❌ Don't
 
 ```ts
