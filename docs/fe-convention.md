@@ -355,6 +355,11 @@ const emit = defineEmits<{
   (e: 'deleteTodo', todoId?: string): void;
 }>();
 
+// 3.3+: alternative, more succinct syntax
+const emit = defineEmits<{
+  deleteTodo: [todoId?: number]
+}>()
+
 // Composition
 const { deleteTodo } = useTodo();
 
@@ -597,6 +602,12 @@ Need to define props separately instead of nesting in defineProps function
 const emit = defineEmits<{
   (e: 'change', id: number): void
   (e: 'update', value: string): void
+}>()
+
+// 3.3+: alternative, more succinct syntax
+const emit = defineEmits<{
+  change: [id: number]
+  update: [value: string]
 }>()
 ```
 
